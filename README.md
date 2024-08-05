@@ -17,3 +17,13 @@ Hajscroder is a high-performance AV1 transcoder designed to efficiently convert 
 ONLY FOR NVIDIA GPU:
 40xx
  
+## Contributing
+We welcome contributions! Please follow these steps:
+1. Fork the repository.
+2. Create a new branch for your feature or fix.
+3. Submit a pull request with a detailed description of your changes.
+
+## Acknowledgments
+
+- Thanks to the AV1 i can save some space on HDD.
+- Thanks to ffmpeg! 
