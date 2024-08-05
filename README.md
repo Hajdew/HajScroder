@@ -7,12 +7,13 @@ Hajscroder is a high-performance AV1 transcoder designed to efficiently convert 
 
 ## How to use
 1.  Download main.py
-2.  pip install tkinter and ffmpeg
-3.  run python main.py
-4.  select what folder u want to transcode
-5.  select where u want store transcoded vidoes
-6.  wait
-7.  Done!
+2.  Install python 3.12.4(i used this version)
+3.  pip install tkinter and ffmpeg
+4.  run python main.py
+5.  select what folder u want to transcode
+6.  select where u want store transcoded vidoes
+7.  wait
+8.  Done!
 
 ONLY FOR NVIDIA GPU:
 40xx
